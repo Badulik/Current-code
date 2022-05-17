@@ -6,3 +6,5 @@ playsound
 googlesearch-python
 datetime
 opencv-python
+pywhatkit
+wikipedia-api
