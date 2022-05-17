@@ -8,3 +8,5 @@ datetime
 opencv-python
 pywhatkit
 wikipedia-api
+wikipedia
+flask
